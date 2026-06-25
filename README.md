@@ -25,6 +25,6 @@ O objetivo deste formulário é permitir o preenchimento digital de uma Declara�
 
 
 ## Autores do Formulários:
-**1. Gabriel Cunha Medeiros**
-**2. Pedro Ferreira Alves**
-**3. Felipe Magalhães**
+1. **Gabriel Cunha Medeiros**
+2. **Pedro Ferreira Alves**
+3. **Felipe Magalhães**
