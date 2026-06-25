@@ -1,6 +1,6 @@
 # Formulário Bootstrap
 
-A Pen created on CodePen.
+*Criado no codepan:*
 
 Original URL: https://codepen.io/Gabriel-CMedeiros/pen/vEggGMQ
 
@@ -10,8 +10,8 @@ Este projeto consiste em um formulário HTML para preenchimento de uma **Declara
 
 ## 🔧 Tecnologias Utilizadas
 
-* HTML5
-* Bootstrap 5 (via CDN)
+- HTML5
+- Bootstrap 5 (via CDN)
 
 ## 📷 Interface
 
@@ -22,3 +22,9 @@ Todos os campos estão organizados utilizando a grid system do Bootstrap (`.row`
 ## 📦 Objetivo
 
 O objetivo deste formulário é permitir o preenchimento digital de uma Declaração de Residência utilizada em processos do DETRAN, possibilitando que o cidadão informe e formalize seu endereço residencial quando necessário para comprovação de residência em procedimentos administrativos.
+
+
+## Autores do Formulários:
+**1. Gabriel Cunha Medeiros**
+**2. Pedro Ferreira Alves**
+**3. Felipe Magalhães**
